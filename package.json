@@ -4,7 +4,7 @@
   "description": "String Calcultor using TDD approach",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Chinmay2311/string-calculator-tdd/issues"
   },
-  "homepage": "https://github.com/Chinmay2311/string-calculator-tdd#readme"
+  "homepage": "https://github.com/Chinmay2311/string-calculator-tdd#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }

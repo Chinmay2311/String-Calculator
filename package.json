@@ -1,0 +1,19 @@
+{
+  "name": "init",
+  "version": "1.0.0",
+  "description": "String Calcultor using TDD approach",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinmay2311/string-calculator-tdd.git"
+  },
+  "author": "Chinmay Chavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinmay2311/string-calculator-tdd/issues"
+  },
+  "homepage": "https://github.com/Chinmay2311/string-calculator-tdd#readme"
+}
